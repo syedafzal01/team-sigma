@@ -74,7 +74,7 @@ header{
 }
 /* cart */
 .cartTab{
-    margin-top: 10rem;
+    margin-top: 20rem;
     width: 400px;
     background-color: #353432;
     color: #eee;
@@ -89,9 +89,7 @@ header{
 body.showCart .cartTab{
     right: 0;
 }
-body.showCart .container{
-    transform: translateX(-250px);
-}
+
 .cartTab h1{
     padding: 20px;
     margin: 0;
