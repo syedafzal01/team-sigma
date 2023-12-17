@@ -353,13 +353,12 @@ body {
 \*-----------------------------------*/
 
 .header {
-  background: var(--yellow);
+  background: var(--white);
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   transition: var(--transition-1);
-  height: 8rem;
   z-index: 4;
 }
 
@@ -370,7 +369,6 @@ body {
   justify-content: space-between;
   align-items: center;
   padding-block: 20px;
-  height: 100%
 }
 
 .nav-open-btn {
